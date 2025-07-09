@@ -1,4 +1,4 @@
-More about me here: [rse.timoschuermann.org](rse.timoschuermann.org).
+More about me here: [rse.timoschuermann.org](http://rse.timoschuermann.org).
 
 <!--
 **TimoSchuer/TimoSchuer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
